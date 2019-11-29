@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b4ab1bc-5560-4be1-935d-a3ebb79688c2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/hello/hello.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/hello/hello.scss" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,14 +14,25 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1U77u2nA7uPGurUH4SudrGUWmiR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -30,6 +40,7 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\mrdob\Desktop\demo\src\components" />
+      <recent name="C:\Users\mrdob\Desktop\demo\src\components\css" />
       <recent name="C:\Users\mrdob\Desktop\demo\src\components\app" />
     </key>
   </component>
@@ -55,7 +66,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574695998942</updated>
-      <workItem from="1574696000338" duration="1129000" />
+      <workItem from="1574696000338" duration="1629000" />
+      <workItem from="1574703586735" duration="36000" />
+      <workItem from="1574863239296" duration="14144000" />
+      <workItem from="1574899624934" duration="105000" />
+      <workItem from="1574901203379" duration="80000" />
+      <workItem from="1574927978586" duration="2467000" />
+      <workItem from="1574930779406" duration="28982000" />
+      <workItem from="1574970280063" duration="3982000" />
+      <workItem from="1574978359056" duration="9033000" />
+      <workItem from="1575015320337" duration="2801000" />
+      <workItem from="1575018144379" duration="2293000" />
+      <workItem from="1575023453553" duration="1390000" />
+      <workItem from="1575027028955" duration="1564000" />
+      <workItem from="1575032134674" duration="64000" />
     </task>
     <servers />
   </component>
@@ -67,7 +91,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
